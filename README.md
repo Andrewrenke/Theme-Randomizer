@@ -7,5 +7,5 @@
 2. Start the app
 
    ```bash
-    yarn web
+    yarn start
    ```
